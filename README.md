@@ -16,8 +16,8 @@
   <a href="https://youtube.com/@fajriaep580">
     <img src="https://img.shields.io/badge/YOUTUBE-@fajriaep580-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://github.com/fajri">
-    <img src="https://img.shields.io/badge/GITHUB-fajri-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/LazenFajri">
+    <img src="https://img.shields.io/badge/GITHUB-LazenFajri-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -76,11 +76,11 @@ Mahasiswa S1 Teknik Informatika di **Universitas Dian Nuswantoro (UDINUS)** Sema
 
 | Project | Tech Stack | Architectural Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **FAJRI-OS / Portofolio** | Astro, TypeScript, Tailwind CSS, p5.js | Dual-mode portfolio (CLI Terminal + Neubrutalism GUI) dengan sinkronisasi repositori otomatis melalui GitHub REST API. | [Source](https://github.com/fajri/Portofolio) / [Live Demo](https://fajriporto.vercel.app) |
-| **LazenQuiz** | TypeScript, Web Standards | Aplikasi asesmen web interaktif dengan modular state handling, dynamic feedback loops, dan tata letak responsif. | [Source](https://github.com/fajri/LazenQuiz) / [Live Demo](https://lazen-quiz.vercel.app) |
-| **MelonExpress** | TypeScript, Web Technologies | Antarmuka portal layanan modern dengan segmentasi komponen hierarkis dan optimasi aset statis. | [Source](https://github.com/fajri/MelonExpress) / [Live Demo](https://melon-express.vercel.app) |
-| **LandingPagesSawit** | HTML5, Modern CSS3 | Proyek matrikulasi UAS UDINUS kelas A11.MTR.01 dengan penekanan pada struktur semantik murni dan *pure CSS styling*. | [Source](https://github.com/fajri/LandingPagesSawit) / [Live Demo](https://sawitlandingpages.vercel.app) |
-| **STI-01** | TypeScript, HTML5, CSS3 | Portal koordinasi akademik kelompok matrikulasi UDINUS dengan fokus pada efisiensi pemuatan data *client-side*. | [Source](https://github.com/fajri/STI-01) / [Live Demo](https://sti-01.vercel.app) |
+| **FAJRI-OS / Portofolio** | Astro, TypeScript, Tailwind CSS, p5.js | Dual-mode portfolio (CLI Terminal + Neubrutalism GUI) dengan sinkronisasi repositori otomatis melalui GitHub REST API. | [Source](https://github.com/LazenFajri/Portofolio) / [Live Demo](https://fajriporto.vercel.app) |
+| **LazenQuiz** | TypeScript, Web Standards | Aplikasi asesmen web interaktif dengan modular state handling, dynamic feedback loops, dan tata letak responsif. | [Source](https://github.com/LazenFajri/LazenQuiz) / [Live Demo](https://lazen-quiz.vercel.app) |
+| **MelonExpress** | TypeScript, Web Technologies | Antarmuka portal layanan modern dengan segmentasi komponen hierarkis dan optimasi aset statis. | [Source](https://github.com/LazenFajri/MelonExpress) / [Live Demo](https://melon-express.vercel.app) |
+| **LandingPagesSawit** | HTML5, Modern CSS3 | Proyek matrikulasi UAS UDINUS kelas A11.MTR.01 dengan penekanan pada struktur semantik murni dan *pure CSS styling*. | [Source](https://github.com/LazenFajri/LandingPagesSawit) / [Live Demo](https://sawitlandingpages.vercel.app) |
+| **STI-01** | TypeScript, HTML5, CSS3 | Portal koordinasi akademik kelompok matrikulasi UDINUS dengan fokus pada efisiensi pemuatan data *client-side*. | [Source](https://github.com/LazenFajri/STI-01) / [Live Demo](https://sti-01.vercel.app) |
 
 ---
 
@@ -106,27 +106,27 @@ Mahasiswa S1 Teknik Informatika di **Universitas Dian Nuswantoro (UDINUS)** Sema
   <table border="0">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=fajri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" width="100%" alt="GitHub Metrics" />
+        <img src="https://github-stats-extended.vercel.app/api?username=LazenFajri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" width="100%" alt="GitHub Metrics" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajri&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&layout=compact" width="100%" alt="Most Used Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LazenFajri&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&layout=compact" width="100%" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fajri&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="100%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LazenFajri&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="100%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fajri/Portofolio/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fajri/Portofolio/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/fajri/Portofolio/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LazenFajri/Portofolio/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LazenFajri/Portofolio/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/LazenFajri/Portofolio/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Sistem profil dirender secara dinamis untuk akun <b>fajri</b>. Base stack: Astro, TypeScript, dan After Effects.</sub>
+  <sub>Sistem profil dirender secara dinamis untuk akun <b>LazenFajri</b>. Base stack: Astro, TypeScript, dan After Effects.</sub>
 </div>
